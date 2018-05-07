@@ -4,7 +4,7 @@ setup(
     name='yarn-unreg-nodes',
     version='0.2.1',
     description='List EC2 asg nodes that failed to reg with YARN cluster',
-    url='http://github.com/seeker815/yarn_unreg_nodes',
+    url='http://github.com/seeker815/hadoop-yarn-unreg-nodes',
     author='Sai Kothapalle',
     author_email='ephemeral927@gmail.com',
     license='MIT',
